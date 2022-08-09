@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CameraShake.unity
+    guid: 608622ff66b636a4ca618a933cb1cad5
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ScrollingScene.unity
+    guid: 22d1868f80ad62440ba4ea212610bb3b
+  - enabled: 1
+    path: Assets/Scenes/RotateObjectByMouse.unity
+    guid: 4a122739efe8464489aaefb8631474ee
+  - enabled: 1
+    path: Assets/Scenes/ButtonFunction.unity
+    guid: 74a4184748a18c04498500e3eeafc530
+  m_configObjects: {}
